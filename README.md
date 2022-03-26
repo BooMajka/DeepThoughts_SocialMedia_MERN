@@ -7,6 +7,7 @@
 - React Router
 - Node.js
 - GraphQL API - alternative to RESTful API design patterns
+- GraphQL Playground interface to test  GraphQL queries
 - JSON Web Tokens -  alternative to using session cookies for authentication (jsonwebtoken)
 - Apollo Server
 - Express.js
