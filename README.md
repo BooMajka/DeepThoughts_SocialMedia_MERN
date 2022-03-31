@@ -18,4 +18,14 @@
 - nodemon - package that simplifies development environment by automatically restarting your Node.js applications when file changes in the directory are detected
 - bcrypt - password hashing
 
+
+## Installation
+- npm install (outside folder)
+- npm run build (client) localhost:3000
+- npm start (client)
+- npm run seed (server)
+- npm run watch (server)
+- https://studio.apollographql.com/sandbox/
+
+
 <img width="1347" alt="100-project-final" src="https://user-images.githubusercontent.com/80685266/160249045-5ca0e6dc-4eac-48fd-a5f7-83075c93d3cc.png">
